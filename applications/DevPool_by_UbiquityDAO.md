@@ -1,7 +1,7 @@
 # DevPool by Ubiquity DAO
 
 - **Team Name:** Ubiquity Research
-- **Payment Address:** ubq.eth 0xefc0e701a824943b469a694ac564aa1eff7ab7dd (DAI)
+- **Payment Address:** ubq.eth (DAI)
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 2
 
 ## Project Overview :page_facing_up:
@@ -71,7 +71,7 @@ UbiquiBot is developed with TypeScript, Supabase, Vercel, GitHub Actions, Probot
 [https://github.com/ubiquity/bounty-bot](https://github.com/ubiquity/bounty-bot)
 
 The only smart contract we use in the system at this time is [Uniswap’s Permit2](https://github.com/Uniswap/permit2). It has received audits from [ABDK](https://github.com/Uniswap/permit2/blob/main/audits/ABDKAudit.pdf) and [Chainsecurity](https://github.com/Uniswap/permit2/blob/main/audits/Chainsecurity%20Audit.pdf).
-The code is Open Source under Apache-2.0 license.
+The code is Open Source under MIT license.
 
 - Documentation of core components, protocols, architecture, etc. to be deployed
 
@@ -126,7 +126,7 @@ There are many freelance platforms for developers, but none of them are leveragi
 
 - Name of team leader
 
-Pavlovcik https://github.com/pavlovcik
+アレクサンダー.eth https://github.com/pavlovcik
 
 - Names of team members
 
@@ -263,6 +263,8 @@ Completion of the following tasks:
 [https://github.com/ubiquity/bounty-bot/issues/272](https://github.com/ubiquity/bounty-bot/issues/272)
 - Restrict assignment on lack of funds
 [https://github.com/ubiquity/bounty-bot/issues/264](https://github.com/ubiquity/bounty-bot/issues/264)
+
+
 
 ### Milestone 2 - Prepare for partner integration & enhance security
 
