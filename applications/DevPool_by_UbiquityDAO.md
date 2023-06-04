@@ -223,16 +223,6 @@ Easy to use and easy to manage:
 
 Increase your developing capacity without increasing your overhead. 
 
-Here is a quick video to showcase the simplicity and power of the DevPool:
-
----
-
-[Demo 3 - 12 sec.mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96174bd5-6e6a-4fba-be0c-e8597df8c1d4/Demo_3_-_12_sec.mp4)
-
-Bounty claim video:
-
-[Demo 4 - 49 sec.mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6f257652-2de5-447e-94d7-3b8b2320c323/Demo_4_-_49_sec.mp4)
-
 ---
 
 Automation and highlights that are suitable both for bounty issuers and bounty hunters:
@@ -272,12 +262,7 @@ Below we provide an **example roadmap**. In the descriptions, it should be clear
 | **0b.** | Documentation | We will provide inline documentation |
 | **0c.** | Testing and Testing Guide | Core functions will be fully covered by comprehensive unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
 | **0d.** | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an article that explains what was done as part of the grant. 
-Completion of the tasks related to bounty hunters onboarding, for example:
-- First Time Bounty Hunter Tutorial 
-[https://github.com/ubiquity/bounty-bot/issues/228](https://github.com/ubiquity/bounty-bot/issues/228)
-- Restrict assignment on lack of funds
-[https://github.com/ubiquity/bounty-bot/issues/264](https://github.com/ubiquity/bounty-bot/issues/264) |
+| 0e. | Article | We will publish an article that explains what was done as part of the grant.Completion of the tasks related to bounty hunters onboarding, for example: First Time Bounty Hunter Tutorial [https://github.com/ubiquity/bounty-bot/issues/228](https://github.com/ubiquity/bounty-bot/issues/228) Restrict assignment on lack of funds [https://github.com/ubiquity/bounty-bot/issues/264](https://github.com/ubiquity/bounty-bot/issues/264) |
 | 1. | Substrate module: X | N/A |
 | 2. | Substrate module: Y | N/A |
 | 3. | Substrate module: Z | N/A |
@@ -298,10 +283,7 @@ Completion of the tasks related to bounty hunters onboarding, for example:
 | **0b.** | Documentation | We will provide inline documentation |
 | **0c.** | Testing and Testing Guide | Core functions will be fully covered by comprehensive unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
 | **0d.** | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an article that explains what was done as part of the grant 
-Completion of the tasks related to integrations, for example:
-- Gnosis Safe Integration
-[https://github.com/ubiquity/bounty-bot/issues/274](https://github.com/ubiquity/bounty-bot/issues/274) |
+| 0e. | Article | We will publish an article that explains what was done as part of the grant. Completion of the tasks related to integrations, for example, Gnosis Safe Integration [https://github.com/ubiquity/bounty-bot/issues/274](https://github.com/ubiquity/bounty-bot/issues/274) |
 | 1. | Substrate module: X | N/A |
 | 2. | Substrate module: Y | N/A |
 | 3. | Substrate module: Z | N/A |
@@ -322,10 +304,7 @@ Completion of the tasks related to integrations, for example:
 | **0b.** | Documentation | We will provide inline documentation |
 | **0c.** | Testing and Testing Guide | Core functions will be fully covered by comprehensive unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
 | **0d.** | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
-| 0e. | Article | We will publish an article that explains what was done as part of the grant. 
-In 3 months we want to complete preparation and launch bounties from partner projects in the DevPool.
-All open issues can be viewed on GitHub
-[https://github.com/ubiquity/bounty-bot/issues](https://github.com/ubiquity/bounty-bot/issues) |
+| 0e. | Article | We will publish an article that explains what was done as part of the grant. In 3 months we want to complete preparation and launch bounties from partner projects in the DevPool. All open issues can be viewed on GitHub [https://github.com/ubiquity/bounty-bot/issues](https://github.com/ubiquity/bounty-bot/issues) |
 | 1. | Substrate module: X | N/A |
 | 2. | Substrate module: Y | N/A |
 | 3. | Substrate module: Z | N/A |
