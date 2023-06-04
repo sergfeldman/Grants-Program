@@ -1,7 +1,7 @@
 # DevPool by Ubiquity DAO
 
 - **Team Name:** Ubiquity Research
-- **Payment Address:** ubq.eth 0xefc0e701a824943b469a694ac564aa1eff7ab7dd (DAI)
+- **Payment Address:** ubq.eth (DAI)
 - **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 2
 
 ## Project Overview :page_facing_up:
@@ -13,6 +13,7 @@ Please provide the following:
 - If the name of your project is not descriptive, a tag line (one sentence summary).
 
 DevPool is a crypto-native platform that organically sits on top of GitHub to optimally match developers with open tasks and get paid in crypto while automating the administrative components for DAOs and Repo managers.
+Ubiquity DAO https://github.com/ubiquity/
 
 - A brief description of your project.
 
@@ -70,6 +71,7 @@ UbiquiBot is developed with TypeScript, Supabase, Vercel, GitHub Actions, Probot
 [https://github.com/ubiquity/bounty-bot](https://github.com/ubiquity/bounty-bot)
 
 The only smart contract we use in the system at this time is [Uniswap’s Permit2](https://github.com/Uniswap/permit2). It has received audits from [ABDK](https://github.com/Uniswap/permit2/blob/main/audits/ABDKAudit.pdf) and [Chainsecurity](https://github.com/Uniswap/permit2/blob/main/audits/Chainsecurity%20Audit.pdf).
+The code is Open Source under MIT license.
 
 - Documentation of core components, protocols, architecture, etc. to be deployed
 
@@ -124,7 +126,7 @@ There are many freelance platforms for developers, but none of them are leveragi
 
 - Name of team leader
 
-Pavlovcik https://github.com/pavlovcik
+アレクサンダー.eth https://github.com/pavlovcik
 
 - Names of team members
 
@@ -196,7 +198,7 @@ Demo
 
 [https://dao.ubq.fi/the-devpool](https://dao.ubq.fi/the-devpool)
 
-### DevPool smart automations get more done in less time
+DevPool smart automations get more done in less time
 
 Welcome to DevPool, a Ubiquity Research Ltd. product. Brought to you by Ubiquity DAO.
 
@@ -231,6 +233,8 @@ Bounty claim video:
 
 [Demo 4 - 49 sec.mp4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6f257652-2de5-447e-94d7-3b8b2320c323/Demo_4_-_49_sec.mp4)
 
+---
+
 Automation and highlights that are suitable both for bounty issuers and bounty hunters:
 
 - Automatic bounty price setting based on the issue characteristics.
@@ -262,13 +266,24 @@ Below we provide an **example roadmap**. In the descriptions, it should be clear
 - **FTE:**  3
 - **Costs:** 10,000 USD
 
-Completion of the following tasks:
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| **0a.** | License | MIT |
+| **0b.** | Documentation | We will provide inline documentation |
+| **0c.** | Testing and Testing Guide | Core functions will be fully covered by comprehensive unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
+| **0d.** | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
+| 0e. | Article | We will publish an article that explains what was done as part of the grant. 
+Completion of the tasks related to bounty hunters onboarding, for example:
 - First Time Bounty Hunter Tutorial 
 [https://github.com/ubiquity/bounty-bot/issues/228](https://github.com/ubiquity/bounty-bot/issues/228)
-- Contributor Comment Financial Incentives
-[https://github.com/ubiquity/bounty-bot/issues/272](https://github.com/ubiquity/bounty-bot/issues/272)
 - Restrict assignment on lack of funds
-[https://github.com/ubiquity/bounty-bot/issues/264](https://github.com/ubiquity/bounty-bot/issues/264)
+[https://github.com/ubiquity/bounty-bot/issues/264](https://github.com/ubiquity/bounty-bot/issues/264) |
+| 1. | Substrate module: X | N/A |
+| 2. | Substrate module: Y | N/A |
+| 3. | Substrate module: Z | N/A |
+| 4. | Substrate chain | N/A |
+| 5. | Library: ABC | N/A |
+| 6. | Smart contracts: ... | N/A |
 
 ### Milestone 2 - Prepare for partner integration & enhance security
 
@@ -276,11 +291,23 @@ Completion of the following tasks:
 - **FTE:**  3
 - **Costs:** 10,000 USD
 
-This includes the following tasks:
-- Update partner integration docs
-[https://github.com/ubiquity/bounty-bot/issues/263](https://github.com/ubiquity/bounty-bot/issues/263)
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| **0a.** | License | MIT |
+| **0b.** | Documentation | We will provide inline documentation |
+| **0c.** | Testing and Testing Guide | Core functions will be fully covered by comprehensive unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
+| **0d.** | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
+| 0e. | Article | We will publish an article that explains what was done as part of the grant 
+Completion of the tasks related to integrations, for example:
 - Gnosis Safe Integration
-[https://github.com/ubiquity/bounty-bot/issues/274](https://github.com/ubiquity/bounty-bot/issues/274)
+[https://github.com/ubiquity/bounty-bot/issues/274](https://github.com/ubiquity/bounty-bot/issues/274) |
+| 1. | Substrate module: X | N/A |
+| 2. | Substrate module: Y | N/A |
+| 3. | Substrate module: Z | N/A |
+| 4. | Substrate chain | N/A |
+| 5. | Library: ABC | N/A |
+| 6. | Smart contracts: ... | N/A |
 
 ### Milestone 3 - Complete refactoring of the basic flows and start onboarding new partners
 
@@ -288,9 +315,23 @@ This includes the following tasks:
 - **FTE:**  3
 - **Costs:** 8,000 USD
 
-In 3 months we would like to launch bounties from partner projects into the DevPool.
+
+| Number | Deliverable | Specification |
+| -----: | ----------- | ------------- |
+| **0a.** | License | MIT |
+| **0b.** | Documentation | We will provide inline documentation |
+| **0c.** | Testing and Testing Guide | Core functions will be fully covered by comprehensive unit tests to ensure functionality and robustness. In the guide, we will describe how to run these tests. |
+| **0d.** | Docker | We will provide a Dockerfile(s) that can be used to test all the functionality delivered with this milestone. |
+| 0e. | Article | We will publish an article that explains what was done as part of the grant. 
+In 3 months we want to complete preparation and launch bounties from partner projects in the DevPool.
 All open issues can be viewed on GitHub
-[https://github.com/ubiquity/bounty-bot/issues](https://github.com/ubiquity/bounty-bot/issues)
+[https://github.com/ubiquity/bounty-bot/issues](https://github.com/ubiquity/bounty-bot/issues) |
+| 1. | Substrate module: X | N/A |
+| 2. | Substrate module: Y | N/A |
+| 3. | Substrate module: Z | N/A |
+| 4. | Substrate chain | N/A |
+| 5. | Library: ABC | N/A |
+| 6. | Smart contracts: ... | N/A |
 
 
 ## Future Plans
